@@ -1,0 +1,93 @@
+# Site settings
+title: Bukalapak's Engineering Blog
+email: blog@bukalapak.com
+description: > # this means to ignore newlines until "baseurl:"
+  Bukalapak's Engineering Blog. Not an ordinary Indonesia engineering blog.
+baseurl: ""
+url: "http://engineering.bukalapak.com" # the base hostname & protocol for your site
+
+authors:
+  ardin:
+    display: ardfard
+    fullname: Ardin Fardiansyah
+    social:
+      github: ardfard
+  edwin:
+    display: sdsdkkk
+    fullname: Edwin Tunggawan
+    social:
+      github: sdsdkkk
+  xinuc:
+    display: xinuc
+    fullname: Nugroho Herucahyono
+    email: xinuc@bukalapak.com
+    social:
+      github: xinuc
+  hadi:
+    display: hadisaloko
+    fullname: Hadi Saloko
+    social:
+      github: hadisaloko
+  araishikeiwai:
+    display: araishikeiwai
+    fullname: Rick Daniel
+    social:
+      github: araishikeiwai
+  sharon:
+    display: sharon
+    fullname: Sharon
+    social:
+      github: sharonrh
+  roland:
+    display: roland
+    fullname: Roland Rifandi Utama
+    social:
+      github: rolandhawk
+  andrew:
+    display: andrew
+    social:
+      github: andrewmanullang
+  devita:
+    display: devita
+    social:
+      github: rrdevita
+  alif:
+    display: alif
+    social:
+      github: subosito
+  swastu:
+    display: swastu
+    social:
+      github: swastupuri
+  danu:
+    display: danu
+    social:
+      github: widatama
+  inas:
+    display: inas
+    social:
+      github: inassjunus
+  kahirul:
+    display: kahirul
+    social:
+      github: kahirul
+  hasan:
+    display: hasan
+    social:
+      github: hasanizer
+  andika:
+    display: andika
+    social:
+      github: andikapratama
+  krisna:
+    display: krisna
+    social:
+      github: krisnadibyo
+  nobody:
+    display: nobody
+    fullname: Nobody
+    social:
+      github:
+
+# Build settings
+markdown: kramdown
