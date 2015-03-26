@@ -1,8 +1,8 @@
 # Site settings
-title: Bukalapak's Engineering Blog
+title: Bukalapak’s Engineering Blog
 email: blog@bukalapak.com
 description: > # this means to ignore newlines until "baseurl:"
-  Bukalapak's Engineering Blog. Not an ordinary Indonesia engineering blog.
+  Bukalapak’s Engineering Blog. Not an ordinary Indonesia engineering blog.
 baseurl: ""
 url: "http://engineering.bukalapak.com" # the base hostname & protocol for your site
 

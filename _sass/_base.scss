@@ -17,7 +17,7 @@ body {
     font-family: $base-font-family;
     font-size: $base-font-size;
     line-height: $base-line-height;
-    font-weight: 300;
+    font-weight: 400;
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
@@ -80,7 +80,8 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-    font-weight: 300;
+    font-family: $heading-font-family;
+    font-weight: 400;
 }
 
 
@@ -127,6 +128,7 @@ blockquote {
  */
 pre,
 code {
+    font-family: $code-font-family;
     font-size: 15px;
     border: 1px solid $grey-color-light;
     border-radius: 3px;

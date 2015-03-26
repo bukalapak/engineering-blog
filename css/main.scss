@@ -6,16 +6,18 @@
 
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-family: "Open Sans", Helvetica, Arial, sans-serif;
+$heading-font-family: "Titillium Web", Helvetica, Arial, sans-serif;
+$code-font-family: "Source Code Pro", Menlo, Courier, monospace;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
+$text-color:       #333;
 $background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$brand-color:      #A30046;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
